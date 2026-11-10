@@ -1,37 +1,85 @@
-# Riki Wahyudi
+![Riki Wahyudi](assets/banner-profile-v4-polished.png)
 
-AI agent builder & automation, based in Indonesia.
-I build plugins and tooling for AI agents that have to prove their work, not just claim it.
+PYTHON · JAVASCRIPT · NODE.JS · SQLITE · TAURI
 
-## What I do
+---
 
-- **Hermes Agent plugins** — verification, safety and continuity tooling for the Hermes Agent ecosystem (Nous Research)
-- **Osvyn** — agent products and an OpenAI-compatible API service with an unfiltered shelf
+<sub>01&nbsp;&nbsp;ABOUT</sub>
 
-## Hermes Agent plugins
+## About
 
-Seven of these are merged into the official Nous Research Hermes plugin catalog:
+I am Riki Wahyudi.
 
-- [proofgate](https://github.com/Whydiriki700/proofgate) — no proof, no done: verifies agent completion claims against tool evidence, fail closed
-- [money-magnet](https://github.com/Whydiriki700/money-magnet) — finance tracker, budget alerts, crypto portfolio PnL and arbitrage scanner
-- [token-dashboard](https://github.com/Whydiriki700/token-dashboard) — real-time token usage, per-model cost and session history for Hermes Desktop
-- [secretshield](https://github.com/Whydiriki700/secretshield) — credentials stop at the tool boundary: scans and redacts leaked keys, fail closed
-- [sessionguard](https://github.com/Whydiriki700/sessionguard) — work survives the session: checkpoints so interrupted tasks resume from evidence
-- [costguard](https://github.com/Whydiriki700/costguard) — a brake pedal for model spend: per-session and daily budgets, enforced
-- [oathkeeper](https://github.com/Whydiriki700/oathkeeper) — standing owner rules, enforced deterministically on every tool call
+I build agents that do real work, prove what they did, and stay inside their owner's rules.
 
-More plugins, all MIT:
+I design and build AI agent systems and the automation around them: multi-agent platforms, agent tooling, and the checks that keep agent work verifiable.
 
-- [secret-scan](https://github.com/Whydiriki700/secret-scan) — redacts credential patterns from agent replies before delivery
-- [commit-keeper](https://github.com/Whydiriki700/commit-keeper) — automatic git checkpoint commits while the agent works
-- [context-keeper](https://github.com/Whydiriki700/context-keeper) — rolling session checkpoints, restored into the next session
+Most of this work is open source and built in the open, one shipped piece at a time.
 
-## Other work
+---
 
-- [osvyn-mobile](https://github.com/Whydiriki700/osvyn-mobile) — Osvyn Mobile (MIT, Android): showcase repo; the app is distributed via Telegram
-- [portfolio](https://github.com/Whydiriki700/portfolio-riki-wahyudi) — my portfolio site, live at [portfolio-riki-wahyudi.vercel.app](https://portfolio-riki-wahyudi.vercel.app/)
+<sub>02&nbsp;&nbsp;PROOF OF WORK</sub>
+
+## Proof of Work
+
+Seven Hermes agent plugins, written for the Hermes hackathon and merged after review. Seven of seven catalog pull requests were accepted.
+
+**ProofGate** blocks a done claim until checkable proof exists.
+
+**money-magnet** a local money ledger with five tools. It tracks income, spending, and balances on your own machine, with no bank connection.
+
+**token-dashboard** a live meter of token use and model cost on the Hermes desktop.
+
+**CostGuard** stops the next tool work once the budget limit is crossed.
+
+**Oathkeeper** turns an owner's written rules into machine-checked gates.
+
+**SecretShield** blocks or redacts leaked API keys and tokens in tool calls and replies.
+
+**SessionGuard** checkpoints work state as the agent goes, so an interrupted session resumes from evidence, not guesswork.
+
+Pull Shark: earned on this account for merged pull requests.
+
+**Marketplace:** [hermes-agent.nousresearch.com/marketplace](https://hermes-agent.nousresearch.com/marketplace)
+
+[![The Trust Layer demo](assets/trust-layer-demo.gif)](https://x.com/rikiwahyudi8o/status/2119765541191872770)
+
+The Trust Layer. Watch the full film on X: [x.com/rikiwahyudi8o/status/2119765541191872770](https://x.com/rikiwahyudi8o/status/2119765541191872770)
+
+---
+
+<sub>03&nbsp;&nbsp;FEATURED BUILDS</sub>
+
+## Featured Builds
+
+**Osvyn** desktop app for running many agent profiles side by side, each with its own accounts, on a local agent bus.
+
+**osvyn-mobile** Android companion for Osvyn. Free and open source under the MIT license, distributed through Telegram.
+
+**portfolio** personal portfolio site for this account, deployed on Vercel.
+
+Experiments, kept public as working notes: secret-scan, commit-keeper, context-keeper.
+
+---
+
+<sub>04&nbsp;&nbsp;CURRENT FOCUS</sub>
+
+## Current Focus
+
+Lexis Agent, a terminal-first AI agent, is in active development.
+
+The Hermes plugin set is complete at seven. No further plugins are planned.
+
+Osvyn is being hardened toward a public release.
+
+---
+
+<sub>05&nbsp;&nbsp;LINKS</sub>
 
 ## Links
 
-- Portfolio: [portfolio-riki-wahyudi.vercel.app](https://portfolio-riki-wahyudi.vercel.app/)
-- Osvyn on Telegram: [t.me/osvynofficial](https://t.me/osvynofficial)
+**Hermes Marketplace:** [hermes-agent.nousresearch.com/marketplace](https://hermes-agent.nousresearch.com/marketplace)
+
+**Osvyn on Telegram:** [t.me/osvynofficial](https://t.me/osvynofficial)
+
+**X:** [@rikiwahyudi8o](https://x.com/rikiwahyudi8o)
