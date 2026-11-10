@@ -1,6 +1,6 @@
 # Riki Wahyudi
 
-AI agent builder & automation, based in Indonesia. Founder of **Osvyn**.
+AI agent builder & automation, based in Indonesia.
 I build plugins and tooling for AI agents that have to prove their work, not just claim it.
 
 ## What I do
