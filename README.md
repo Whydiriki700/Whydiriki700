@@ -1,5 +1,3 @@
-![Riki Wahyudi](assets/banner-profile-v4-polished.png)
-
 PYTHON · JAVASCRIPT · NODE.JS · SQLITE · TAURI
 
 ---
