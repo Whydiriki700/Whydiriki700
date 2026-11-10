@@ -7,8 +7,6 @@ I build plugins and tooling for AI agents that have to prove their work, not jus
 
 - **Hermes Agent plugins** — verification, safety and continuity tooling for the Hermes Agent ecosystem (Nous Research)
 - **Osvyn** — agent products and an OpenAI-compatible API service with an unfiltered shelf
-- **2RC Digital Creative** — video editing services (cinematic, 2D animation, social)
-- **HomelyFix** — household goods e-commerce on Shopee
 
 ## Hermes Agent plugins
 
@@ -32,7 +30,6 @@ More plugins, all MIT:
 
 - [osvyn-mobile](https://github.com/Whydiriki700/osvyn-mobile) — Osvyn Mobile (MIT, Android): showcase repo; the app is distributed via Telegram
 - [portfolio](https://github.com/Whydiriki700/portfolio-riki-wahyudi) — my portfolio site, live at [portfolio-riki-wahyudi.vercel.app](https://portfolio-riki-wahyudi.vercel.app/)
-- [demo-2rc](https://github.com/Whydiriki700/demo-2rc) — landing page for 2RC Digital Creative
 
 ## Links
 
