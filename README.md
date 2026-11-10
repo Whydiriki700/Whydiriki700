@@ -52,6 +52,8 @@ The Trust Layer. Watch the full film on X: [x.com/rikiwahyudi8o/status/211976554
 
 ## Featured Builds
 
+**[Yuki.ai](https://github.com/Whydiriki700/yuki-ai-showcase)** a managed AI chief of staff for founders and solopreneurs, with an enforced contract, a critic gate, and a public failure ledger.
+
 **Osvyn** desktop app for running many agent profiles side by side, each with its own accounts, on a local agent bus.
 
 **osvyn-mobile** Android companion for Osvyn. Free and open source under the MIT license, distributed through Telegram.
